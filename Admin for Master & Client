@@ -1,0 +1,16 @@
+AL200HDv2 – Master:
+IP: 10.0.0.2
+Username: airlink200hdv2
+Password: s4Qcc?x+
+
+AL200HDv2 – Client:
+IP: 10.0.0.10
+Username: airlink200hdv2
+Password: s4Qcc?x+
+
+Change STATION MODE to Client (STA):
+
+Telnet / Putty commands – 10.0.0.xx:
+Type: cemgr.sh op_mode_set sta
+Type: reboot
+After reboot, the device must be reset to factory default settings.
